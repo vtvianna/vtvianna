@@ -1,4 +1,5 @@
-## Hi there 👋
+## Muito prazer,
+sou Victor Vianna. 
 
 Atualmente trabalho com atendimento ao publico, estou em busca de oportunidade profissional para fazer uma transição na minha carreira. Minhas especialidades inclui: React, Angular JavaScript e SQL.
   <h1>Portfolio:</h1>
